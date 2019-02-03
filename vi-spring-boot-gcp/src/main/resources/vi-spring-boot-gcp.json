@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "vi-spring-boot-gcp",
+  "private_key_id": "0bd675a51191cf9415945ae741a7e0e5ef0a9a4d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDL5xTluNxhotii\nQPM3q6o8pxSSf0NcJmHpwPkJuF5RbOtm56BHWGiBPH5a72nca9F+vOSuqHFeWEJD\nC6vZXVR17SNKOZmdijNezdFhz6uZejAmkGRnJ/Zv2IZ535V809JsXs40+tOn3jaS\nx2YontYadZWZV4hwmlbZWYJgNHXj63buJgWxww9YFlgsppS26tTtGFNuOrKKnTrR\nJp7w8GI8nnKte+JjO6wrfQJ4Q4U10A9rOaneh2v+m2OFd3w8yYyYWmUyqCZhBq8P\nxTGK7mZdxQpnio+8+BvSfvV3WJIzrY1rjBWUcw9BxkO4fXX7BB5Pu2ImOtu5Deya\nk80DQ3FZAgMBAAECggEAAtf8MJ/9Ytc0kj65paMdQq9J2CkyNUzLvMjWME6D8jrE\npbDBSX1wJ61CTd5c6ZgPWeckgVMUEa7Fbc3x3Zwxm1ttTJG1FL9irAXOz8BnskJD\n/aWx4MZr529roLN/kDgcDSrdUVvWK9crh6yEPjjI36GYLoVL/9YHNAzNhq30nvMZ\nV3F2eW0Z0wh/l2k4LNRWJxE4sG/Czj/1QvaFyMpjEsN48uThHt4Spw83a01mwMUv\nq5CaHbovkyDyo8Pth/RxoAYlwULfvhZNaNYGlGjIF5A7gXK3QlZz4AhFPhAgZBgh\nJm4aIXnAcEexAry8TaFuj/s5wMTdMr2XUbp/fXxzIQKBgQD2YfNp8upRA/R7cVCK\nV096aDxsu6/zSS8wP4UtG7ussuDZ0coH/TUOyO6O6AZxIr2FGpXC8te54xyuYwbv\npQbIjefpXdkJxLHdYnJuAr+EcsFihPrXAloZdhF9JpLRO1kY3fuztFmSmM2z3n0s\n6ofq5ppuj5LlM2C+zZh6pV8VpQKBgQDT3KM6BqsE34aEz0Z4ttnRcW2daQhwRJO1\nuXape4enNh8l622B9jd8BHvU43mP0zq/4aY7ajOISUhveRuZgnsuV9CnsMgbyAMs\nqq48aG6aHnWh0AN60It2vdt3qXT2H/TggpHn4CHp4qHu9hS4b8oC1vt+g2/0ZGez\nUB0mrXQmpQKBgQCVaVsSshP0o2Bch6Ae9Mmm4pVaHwuZjpUGPk8Fxt6t4SBIF1fc\nNmo5mBJLKVvWugmSMUgGm/vEp3yaKEVpiHsvnha4R4g5y0VNisj3+8SmjmzF0PzI\n7I01CYubiIvaRJJIaT2dgc4b/3wnCtKALY3VHpkiWQDs65ZMvyMrpSOfXQKBgQCt\nY7Gi17o3bsilAQ5n1R5HL1HKth9V4ooQ/AyFgLfwvXaYjik9Z8jZEsJV5SWj8/fs\n+jwV/EDYlUFXGgLgi81MjEoUM7ZSJkuSzs1yWvXJ5IvZNmjiprK9J3zqXiF/HYBI\nDhRjdSfMRtLIw1UJ7VOjJ1cEn4WMum+0bSiuct7QkQKBgQC2TAOcgVhKcM+LwS5V\nO31VZ1+sLskY9RBQ2OigVIozc+hlK3aV4HQOfxBOuJGi+9GD6wVflXTcBumK+ina\nWFCrFwCOk8j04eudd2C9uFx1dK0ToFPZSDTsc7WV9RAHZMn1yc0fNGYQQfbNLs41\nKQ6rowb+m9fRka3OwbdPnEbAJA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "vi-spring-boot-gcp@appspot.gserviceaccount.com",
+  "client_id": "104946129463983704652",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vi-spring-boot-gcp%40appspot.gserviceaccount.com"
+}
