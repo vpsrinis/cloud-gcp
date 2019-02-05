@@ -5,7 +5,6 @@
 	<groupId>com.sample.gcp</groupId>
 	<artifactId>vi-spring-boot-gcp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
 	<name>spring-boot-gcp</name>
 	<description>Demo project for Spring Boot</description>
 	  <repositories>
@@ -191,7 +190,7 @@
 				</dependency>
 			</dependencies>
 			<build>
-				<finalName>${project.name}-gcp</finalName>
+				<finalName>${project.name}</finalName>
 				<resources>
 					<resource>
 						<directory>src/main/resources</directory>
@@ -209,6 +208,19 @@
 					<plugin>
 						<groupId>org.springframework.boot</groupId>
 						<artifactId>spring-boot-maven-plugin</artifactId>
+						<executions>
+					        <execution>
+					            <goals>
+					                <goal>repackage</goal>
+					            </goals>
+					            <configuration>
+					                <classifier></classifier>
+					                <mainClass>
+					                  com.sample.gcp.Application
+					                </mainClass>
+					            </configuration>
+					        </execution>
+					    </executions>
 					</plugin>
 				</plugins>
 			</build>
@@ -250,6 +262,7 @@
 					<plugin>
 						<groupId>org.springframework.boot</groupId>
 						<artifactId>spring-boot-maven-plugin</artifactId>
+						
 					</plugin>
 					<plugin>
 						<groupId>org.apache.maven.plugins</groupId>
@@ -324,8 +337,7 @@
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
-				<artifactId>maven-compiler-plugin</artifactId>
-				
+				<artifactId>maven-compiler-plugin</artifactId>				
 				<configuration>
 					<source>1.8</source>
                     <target>1.8</target>
